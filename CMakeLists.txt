@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.4)
 project(kiss_fft LANGUAGES C)
 
-add_library(${PROJECT_NAME
+add_library(${PROJECT_NAME}
         include/kiss_fft/_kiss_fft_guts.h
         include/kiss_fft/kiss_fft.c
         include/kiss_fft/kiss_fft.h
