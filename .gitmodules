@@ -1,0 +1,3 @@
+[submodule "include/kiss_fft"]
+	path = include/kiss_fft
+	url = https://github.com/itdaniher/kissfft

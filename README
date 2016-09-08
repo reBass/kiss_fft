@@ -1,7 +1,0 @@
-Lightweight fork of the well known kiss_fft library. I only kept the C++ header,
-everything else got stripped down, even the tests. The original test suite wasn't 
-written in a portable code so I'll try to provide one.
-
-I've added a simple CMakeLists (hugely inspired by nlohmann's json.hpp packaging)
-so that it can be accessed easily from CLion.
-
